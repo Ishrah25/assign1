@@ -70,10 +70,10 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Isra, but you can call me Ishrah, Isra or sir");
+        System.out.println("My name is Isra, but you can call me Isra, Ishrah or Ish");
         System.out.println();
         
-        System.out.println("My career ambitions:");
+        System.out.println("My career ambitions are:");
         System.out.println("-- to get good grades, get a degree from a university");
         System.out.println("--to be able an engineer one day");
 	System.out.println();	
